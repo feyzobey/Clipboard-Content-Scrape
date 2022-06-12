@@ -1,5 +1,5 @@
 from tkinter import Tk
-import git
+import git 
 
 try:
     # in which directory you want to clone, type its path into Git() method, but, if you change it, the exe file is not affected
